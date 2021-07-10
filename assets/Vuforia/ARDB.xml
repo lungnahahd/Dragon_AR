@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Mybuds2" size="0.183885 0.117475" />
+    <ImageTarget name="Mybuds" size="0.285750 0.381000" />
+    <ImageTarget name="water" size="0.132291 0.132291" />
+  </Tracking>
+</QCARConfig>
